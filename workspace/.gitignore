@@ -1,0 +1,10 @@
+# ignore ACM certificate
+prd/aws/acm
+
+# input folder contains secrets which should not be checked in
+input
+# input folder contains secrets which should not be checked in
+output
+
+# ignore secrets
+secrets
